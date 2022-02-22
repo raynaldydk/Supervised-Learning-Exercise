@@ -1,3 +1,2 @@
-# ds_case_study
-Repository for Case Study using Machine Learning.
-Case study provided by JCOp / WiraDKP
+# supervised_learning
+Repository for Supervised Learning project
